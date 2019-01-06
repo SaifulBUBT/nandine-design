@@ -75,6 +75,9 @@ p {
 .margin-sapce {
   margin-top: 60px;
 }
+.text-align {
+    text-align: right;
+}
 /*
 ==========================================
     Header menu Css
